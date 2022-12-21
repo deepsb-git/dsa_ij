@@ -1,4 +1,4 @@
-package com.sde;
+package com.sde.easy;
 
 import com.sde.easy.ReverseAnArrayIteratively;
 import org.junit.Test;

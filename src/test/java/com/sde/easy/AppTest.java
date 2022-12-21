@@ -1,4 +1,4 @@
-package com.sde;
+package com.sde.easy;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
