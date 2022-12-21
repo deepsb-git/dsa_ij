@@ -139,6 +139,8 @@ buildNumber.properties
 .idea/encodings.xml
 .idea/jarRepositories.xml
 .idea/vcs.xml
+.idea.CoverUsage.xml
+.idea.git_toolbox_prj.xml
 
 
 # End of https://www.toptal.com/developers/gitignore/api/intellij+iml,maven,java
