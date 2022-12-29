@@ -11,4 +11,7 @@ public class FactorialOfNumber {
         }
         return n*facto(n-1);
     }
+
 }
+
+
