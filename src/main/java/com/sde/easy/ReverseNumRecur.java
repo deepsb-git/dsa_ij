@@ -1,6 +1,6 @@
 package com.sde.easy;
 
-public class ReverseNum {
+public class ReverseNumRecur {
     public static void main(String[] args){
         rev(1234);
         System.out.println("reverse of num : " + sum);
