@@ -1,6 +1,6 @@
 package com.sde.easy;
 
-import com.sde.easy.ReverseAnArrayIteratively;
+import com.sde.easy.code_ds.ReverseAnArrayIteratively;
 import org.junit.Test;
 
 import static org.junit.Assert.assertArrayEquals;
