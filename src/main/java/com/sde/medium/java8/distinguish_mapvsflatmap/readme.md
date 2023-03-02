@@ -6,7 +6,7 @@ Differences between Java 8 Map() Vs flatMap() :
 | It does only mapping.	                                                                      | It performs mapping as well as flattening.                                                  |                                                            
 | It’s mapper function produces   single value for each input value.	                         | It’s mapper function produces multiple values for each input value.                         |
 | It is a One-To-One mapping.	                                                                | It is a One-To-Many mapping.                                                                |                                                                         
-| Data Transformation : From Stream to Stream	Data Transformation                             | : From Stream<Stream> to Stream                                                             |                                                                         
+| Data Transformation : From Stream to Stream	Data Transformation                             |Data Transformation : From Stream<Stream> to Stream                                                             |                                                                         
 | Use this method when the mapper function is producing a single value for each input value.	 | Use this method when the mapper function is producing multiple values for each input value. |            
 
 
